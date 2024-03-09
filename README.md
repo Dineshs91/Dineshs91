@@ -3,7 +3,9 @@
 My name is Dinesh. I am a Software Engineering Manager at Security Innovation India.
 
 I have 10+ years of experience as a software engineer. My interest is in backend and devops. I work on frontend ocassionaly, but my interest is mainly in backend.
-I am an advocate of clean code, unit testing and clear documentation. 
+I am an advocate of clean code, unit testing and clear documentation.
+
+- I'm currently working on [MetaExplorer](https://metaexplorer.co)
 
 
 ### Tech stack
