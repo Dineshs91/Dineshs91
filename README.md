@@ -2,10 +2,10 @@
 
 My name is Dinesh. I am a Software Engineering Manager at Security Innovation India.
 
-I have 11+ years of experience as a software engineer. My interest is in backend and devops. I work on frontend ocassionaly, but my interest is mainly in backend.
-I am an advocate of clean code, unit testing and clear documentation.
+I have 12+ years of experience as a software engineer. My interest is in full stack web development, chrome extensions and devops.
+I am an advocate of clean code, writing unit tests and writing clear documentation. 
 
-- I'm currently working on [Meta Explorer](https://metaexplorer.co)
+Simplicity over complexity any day!
 
 
 ### Tech stack
@@ -14,6 +14,7 @@ I am an advocate of clean code, unit testing and clear documentation.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width=40 height=40/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width=40 height=40/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width=40 height=40/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width=40 height=40/> 
 
 <!--
 **Dineshs91/Dineshs91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
