@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Dinesh. I am a Software Engineering Manager at Security Innovation India.
+My name is Dinesh. I am a Senior Software Engineering with 12 years of experience.
 
-I have 12+ years of experience as a software engineer. My interest is in full stack web development, chrome extensions and devops.
-I am an advocate of clean code, writing unit tests and writing clear documentation. 
+My interest is in full stack web development, chrome extensions and devops.
+I am an advocate of clean code, writing unit tests and writing clear documentation.
 
 Simplicity over complexity any day!
 
